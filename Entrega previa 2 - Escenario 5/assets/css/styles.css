@@ -226,7 +226,9 @@ textarea {
     resize: none;
 }
 
-/* Estilos de la barra lateral */
+
+/* Estilos pagina dashboard*/
+
 .sidebar {
     width: 200px;
     height: 100vh;
@@ -256,7 +258,7 @@ textarea {
     color: white;
 }
 
-/* Estilos para el contenido principal */
+
 .main-content {
     margin-left: 210px;
 }
